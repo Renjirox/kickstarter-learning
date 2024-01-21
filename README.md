@@ -5,17 +5,17 @@ Repozytorium z projektem do machine learning wykorzystującym dane z Kickstarter
 ## Wyjaśnienie kolumn:
 
 ID - ID Projektu
-deadline - Deadline projektu w czasie UNIX
-goal - Cel projektu w USD
-launched - Czas wystartowania projektu w czasie UNIX
-pledged - Ilość pieniędzy zebranych
-state - Stan projektu | 1 = Zakończony powodzeniem | 0 - Zakończony niepowodzeniem
-backers - Ilość osób które wsparły projekt
+deadline - Deadline projektu w czasie UNIX<br/>
+goal - Cel projektu w USD<br/>
+launched - Czas wystartowania projektu w czasie UNIX<br/>
+pledged - Ilość pieniędzy zebranych<br/>
+state - Stan projektu | 1 = Zakończony powodzeniem | 0 - Zakończony niepowodzeniem<br/>
+backers - Ilość osób które wsparły projekt<br/>
 
 ## Struktura projektu:
 
-data/ks-projects-201612.csv - plik CSV z danymi przed przekonwertowaniem
-data/modified_dataset_converted.csv - plik CSV z znormalizowanymi danymi i usuniętymi niepotrzebnymi kolumnami
+data/ks-projects-201612.csv - plik CSV z danymi przed przekonwertowaniem<br/>
+data/modified_dataset_converted.csv - plik CSV z znormalizowanymi danymi i usuniętymi niepotrzebnymi kolumnami<br/>
 
 kickstarter.ipynb - Plik Notebook z kodem w języku Python
 
