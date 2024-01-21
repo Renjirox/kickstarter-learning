@@ -2,6 +2,8 @@
 
 Repozytorium z projektem do machine learning wykorzystującym dane z Kickstarter'a.
 
+### LINK DO DANYCH: https://drive.google.com/drive/folders/1RpRwExJBpXe70yfdIPUM5mDbsRwXqEWd?usp=sharing
+
 ## Wyjaśnienie kolumn:
 
 ID - ID Projektu
